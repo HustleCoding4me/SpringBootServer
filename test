@@ -9,3 +9,19 @@ test
 
 아니 내가 로컬에서 은지 브런치로 코드짜서 그러를 origin/lee로 commit&push하면 거기에 올라가잖아
 hw가 그 origin(리모트)에서 이거를 받으면 업뎃된 내용으로
+
+
+
+
+
+
+
+
+
+
+이건 내가 lee(온라인) 브런치에서 checkout해서
+lee branch에 추가해봄
+
+
+1.test2용에서 origin branch로 commit 가능
+
